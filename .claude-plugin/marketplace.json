@@ -1,5 +1,5 @@
 {
-  "name": "pasha-skills",
+  "name": "tilda-skills",
   "owner": { "name": "Pasha Sitnikov", "url": "https://github.com/PashaMozhet1" },
   "metadata": { "description": "Скиллы Claude для работы с Tilda и вёрстки сайтов" },
   "plugins": [

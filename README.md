@@ -1,20 +1,20 @@
-# claude-skills
+# tilda-skills
 
-Скиллы для Claude, собранные на реальных проектах. Сейчас здесь один плагин:
+Скиллы Claude для вёрстки сайтов на Tilda, собранные на реальных проектах. Сейчас здесь один плагин:
 
 - **tilda** — скилл `tilda-layout` «Верстка на Tilda»: правила переноса макетов из Figma в Zero Block, адаптив, типографика, изображения.
 
 ## Установка в Claude Code
 
 ```
-/plugin marketplace add PashaMozhet1/claude-skills
-/plugin install tilda@pasha-skills
+/plugin marketplace add PashaMozhet1/tilda-skills
+/plugin install tilda@tilda-skills
 ```
 
 Обновить до свежей версии:
 
 ```
-/plugin marketplace update pasha-skills
+/plugin marketplace update tilda-skills
 ```
 
 Скилл подхватывается автоматически, когда вы просите Claude сверстать или поправить страницу на Tilda.
