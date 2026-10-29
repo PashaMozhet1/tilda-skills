@@ -1,0 +1,6 @@
+{
+  "name": "tilda",
+  "version": "0.1.0",
+  "description": "Верстка на Tilda: правила переноса макетов из Figma в Zero Block, адаптив, мелочи типографики и изображений",
+  "author": { "name": "Pasha Sitnikov", "url": "https://github.com/PashaMozhet1" }
+}

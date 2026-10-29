@@ -1,0 +1,12 @@
+{
+  "name": "pasha-skills",
+  "owner": { "name": "Pasha Sitnikov", "url": "https://github.com/PashaMozhet1" },
+  "metadata": { "description": "Скиллы Claude для работы с Tilda и вёрстки сайтов" },
+  "plugins": [
+    {
+      "name": "tilda",
+      "source": "./plugins/tilda",
+      "description": "Верстка на Tilda: правила переноса макетов из Figma в Zero Block, адаптив, мелочи типографики и изображений"
+    }
+  ]
+}
